@@ -1,0 +1,68 @@
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\bin\Debug\net8.0\appsettings.Development.json
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\bin\Debug\net8.0\appsettings.json
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\bin\Debug\net8.0\Laboratorio2.exe
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\bin\Debug\net8.0\Laboratorio2.deps.json
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\bin\Debug\net8.0\Laboratorio2.runtimeconfig.json
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\bin\Debug\net8.0\Laboratorio2.dll
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\bin\Debug\net8.0\Laboratorio2.pdb
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\Laboratorio2.csproj.AssemblyReference.cache
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\Laboratorio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\Laboratorio2.AssemblyInfoInputs.cache
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\Laboratorio2.AssemblyInfo.cs
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\Laboratorio2.csproj.CoreCompileInputs.cache
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\Laboratorio2.MvcApplicationPartsAssemblyInfo.cs
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\Laboratorio2.MvcApplicationPartsAssemblyInfo.cache
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\staticwebassets.build.json
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\staticwebassets.development.json
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\staticwebassets\msbuild.Laboratorio2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\staticwebassets\msbuild.build.Laboratorio2.props
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Laboratorio2.props
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Laboratorio2.props
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\scopedcss\bundle\Laboratorio2.styles.css
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\Laborato.314B9490.Up2Date
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\Laboratorio2.dll
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\refint\Laboratorio2.dll
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\Laboratorio2.pdb
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\Laboratorio2.genruntimeconfig.cache
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\ref\Laboratorio2.dll
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 2\Laboratorio\Laboratorio2\obj\Debug\net8.0\Laboratorio2.sourcelink.json
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\bin\Debug\net8.0\appsettings.Development.json
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\bin\Debug\net8.0\appsettings.json
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\bin\Debug\net8.0\Laboratorio2.exe
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\bin\Debug\net8.0\Laboratorio2.deps.json
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\bin\Debug\net8.0\Laboratorio2.runtimeconfig.json
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\bin\Debug\net8.0\Laboratorio2.dll
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\bin\Debug\net8.0\Laboratorio2.pdb
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\Laboratorio2.csproj.AssemblyReference.cache
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\Laboratorio2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\Laboratorio2.AssemblyInfoInputs.cache
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\Laboratorio2.AssemblyInfo.cs
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\Laboratorio2.csproj.CoreCompileInputs.cache
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\Laboratorio2.MvcApplicationPartsAssemblyInfo.cs
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\Laboratorio2.MvcApplicationPartsAssemblyInfo.cache
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\Laboratorio2.sourcelink.json
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\staticwebassets.build.json
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\staticwebassets.development.json
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\staticwebassets\msbuild.Laboratorio2.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\staticwebassets\msbuild.build.Laboratorio2.props
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.Laboratorio2.props
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.Laboratorio2.props
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\scopedcss\bundle\Laboratorio2.styles.css
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\Laborato.314B9490.Up2Date
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\Laboratorio2.dll
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\refint\Laboratorio2.dll
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\Laboratorio2.pdb
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\Laboratorio2.genruntimeconfig.cache
+D:\Tecsup\Ciclo 6\Empresariales Avanzado\Semana 4\Examen\.Net AWS API\.net\obj\Debug\net8.0\ref\Laboratorio2.dll
